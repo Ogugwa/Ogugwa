@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deborah
-- 👀 I’m interested in becoming a Software Developer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in becoming a Fullstack Developer
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to continuous learning and development
 - 📫 How to reach me: You can send a mail to me via okoloogugwa@gmail.com
 
